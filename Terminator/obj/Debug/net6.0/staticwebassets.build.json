@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "92rXYnkg4yGpfnROJbdPmeA0Qxx9v8Xej/qoPB6ilr0=",
+  "Source": "Terminator.API",
+  "BasePath": "_content/Terminator.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

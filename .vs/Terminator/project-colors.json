@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c3a35f70-5542-43a2-9d71-bd9e561530b9": {
+      "ProjectGuid": "c3a35f70-5542-43a2-9d71-bd9e561530b9",
+      "DisplayName": "Terminator.API",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

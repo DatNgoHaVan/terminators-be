@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "UbYXwcv0h1OS61unsOSdn9LQAVcM/Wz/Y9DbxydU0fOKVWxiZyiQLqpo9ur4dxpYWxBDV3VasFleiDcE11CJcA==",
+  "success": true,
+  "projectFilePath": "D:\\WeCode\\Terminator\\Terminator.Application\\Terminator.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nhat Nguyen\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\Nhat Nguyen\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\Nhat Nguyen\\.nuget\\packages\\fluentvalidation\\10.3.0\\fluentvalidation.10.3.0.nupkg.sha512",
+    "C:\\Users\\Nhat Nguyen\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Nhat Nguyen\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Nhat Nguyen\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\Nhat Nguyen\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Nhat Nguyen\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\Nhat Nguyen\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Nhat Nguyen\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\Nhat Nguyen\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Nhat Nguyen\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
+    "C:\\Users\\Nhat Nguyen\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\Nhat Nguyen\\.nuget\\packages\\universely.aspnetcore.constants\\2.2.1\\universely.aspnetcore.constants.2.2.1.nupkg.sha512",
+    "C:\\Users\\Nhat Nguyen\\.nuget\\packages\\universely.aspnetcore.mediatr\\2.2.1\\universely.aspnetcore.mediatr.2.2.1.nupkg.sha512",
+    "C:\\Users\\Nhat Nguyen\\.nuget\\packages\\universely.types\\1.0.1\\universely.types.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

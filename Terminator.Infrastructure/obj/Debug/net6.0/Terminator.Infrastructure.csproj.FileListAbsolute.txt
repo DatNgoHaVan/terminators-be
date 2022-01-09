@@ -1,0 +1,17 @@
+D:\WeCode\Terminator\Terminator.Infrastructure\bin\Debug\net6.0\Terminator.Infrastructure.deps.json
+D:\WeCode\Terminator\Terminator.Infrastructure\bin\Debug\net6.0\Terminator.Infrastructure.dll
+D:\WeCode\Terminator\Terminator.Infrastructure\bin\Debug\net6.0\ref\Terminator.Infrastructure.dll
+D:\WeCode\Terminator\Terminator.Infrastructure\bin\Debug\net6.0\Terminator.Infrastructure.pdb
+D:\WeCode\Terminator\Terminator.Infrastructure\obj\Debug\net6.0\Terminator.Infrastructure.csproj.AssemblyReference.cache
+D:\WeCode\Terminator\Terminator.Infrastructure\obj\Debug\net6.0\Terminator.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\WeCode\Terminator\Terminator.Infrastructure\obj\Debug\net6.0\Terminator.Infrastructure.AssemblyInfoInputs.cache
+D:\WeCode\Terminator\Terminator.Infrastructure\obj\Debug\net6.0\Terminator.Infrastructure.AssemblyInfo.cs
+D:\WeCode\Terminator\Terminator.Infrastructure\obj\Debug\net6.0\Terminator.Infrastructure.csproj.CoreCompileInputs.cache
+D:\WeCode\Terminator\Terminator.Infrastructure\obj\Debug\net6.0\Terminator.Infrastructure.dll
+D:\WeCode\Terminator\Terminator.Infrastructure\obj\Debug\net6.0\ref\Terminator.Infrastructure.dll
+D:\WeCode\Terminator\Terminator.Infrastructure\obj\Debug\net6.0\Terminator.Infrastructure.pdb
+D:\WeCode\Terminator\Terminator.Infrastructure\bin\Debug\net6.0\Terminator.Infrastructure.runtimeconfig.json
+D:\WeCode\Terminator\Terminator.Infrastructure\bin\Debug\net6.0\Terminator.Core.dll
+D:\WeCode\Terminator\Terminator.Infrastructure\bin\Debug\net6.0\Terminator.Core.pdb
+D:\WeCode\Terminator\Terminator.Infrastructure\obj\Debug\net6.0\Terminator.Infrastructure.csproj.CopyComplete
+D:\WeCode\Terminator\Terminator.Infrastructure\obj\Debug\net6.0\Terminator.Infrastructure.genruntimeconfig.cache

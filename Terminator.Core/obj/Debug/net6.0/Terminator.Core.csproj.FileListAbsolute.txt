@@ -1,0 +1,12 @@
+D:\WeCode\Terminator\Terminator.Core\bin\Debug\net6.0\Terminator.Core.deps.json
+D:\WeCode\Terminator\Terminator.Core\bin\Debug\net6.0\Terminator.Core.dll
+D:\WeCode\Terminator\Terminator.Core\bin\Debug\net6.0\ref\Terminator.Core.dll
+D:\WeCode\Terminator\Terminator.Core\bin\Debug\net6.0\Terminator.Core.pdb
+D:\WeCode\Terminator\Terminator.Core\obj\Debug\net6.0\Terminator.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\WeCode\Terminator\Terminator.Core\obj\Debug\net6.0\Terminator.Core.AssemblyInfoInputs.cache
+D:\WeCode\Terminator\Terminator.Core\obj\Debug\net6.0\Terminator.Core.AssemblyInfo.cs
+D:\WeCode\Terminator\Terminator.Core\obj\Debug\net6.0\Terminator.Core.csproj.CoreCompileInputs.cache
+D:\WeCode\Terminator\Terminator.Core\obj\Debug\net6.0\Terminator.Core.dll
+D:\WeCode\Terminator\Terminator.Core\obj\Debug\net6.0\ref\Terminator.Core.dll
+D:\WeCode\Terminator\Terminator.Core\obj\Debug\net6.0\Terminator.Core.pdb
+D:\WeCode\Terminator\Terminator.Core\obj\Debug\net6.0\Terminator.Core.csproj.AssemblyReference.cache
